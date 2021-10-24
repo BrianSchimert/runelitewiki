@@ -92,7 +92,7 @@ Some boss names can be substituted for shorthand versions:
 `wt` -> `Wintertodt`  
 `barrows` -> `Barrows Chests`  
 `cg` -> `Corrupted Gauntlet`  
-`dusk`, `dawn`, `gargs` -> `Grotesque Guardians`  
+`dusk`, `dawn`, `gargs`, `ggs`, `gg` -> `Grotesque Guardians`  
 `smoke devil`, `thermy` -> `Thermonuclear Smoke Devil`  
 `zuk`, `inferno`, -> `TzKal-Zuk`  
 `sara`, `saradomin`, `zilyana`, `zily` -> `Commander Zilyana`  
