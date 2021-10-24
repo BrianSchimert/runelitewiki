@@ -6,5 +6,8 @@ After enabling "Inventory Tags" plugin, you can customize your color tag per ite
 ### Locations
 
 Chambers of Xeric public storage unit (in raid)
+
 Chambers of Xeric private storage unit (in raid)
+
 Chambers of Xeric private storage unit (outside of raid)
+
