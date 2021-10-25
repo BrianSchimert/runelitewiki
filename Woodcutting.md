@@ -11,3 +11,6 @@ The amount of time after your last log cut that the infobox will wait to disappe
 
 ### Bird nest notification
 If enabled, the plugin will send you a system tray notification when a bird nest appears
+
+### Pie chart timer
+Shows a visual pie symbol timer to represent when the chopped tree will respawn
